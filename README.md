@@ -1,2 +1,2 @@
 # ML_Projects
-Hard Coded machine learning projects
+These are hard coded machine learning projects by me(Obiviously using library functions)
